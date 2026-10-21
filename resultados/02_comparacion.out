@@ -1,0 +1,3 @@
+token: 11, yylval: 1, text: 5
+token: 400, yylval: 1, text: <
+token: 11, yylval: 2, text: 30

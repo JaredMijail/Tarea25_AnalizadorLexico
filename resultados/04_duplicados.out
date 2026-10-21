@@ -1,0 +1,12 @@
+token: 300, yylval: 7, text: if
+token: 10, yylval: 1, text: x
+token: 400, yylval: 3, text: =
+token: 10, yylval: 1, text: x
+token: 300, yylval: 8, text: then
+token: 10, yylval: 1, text: x
+token: 400, yylval: 3, text: =
+token: 10, yylval: 1, text: x
+token: 300, yylval: 9, text: else
+token: 10, yylval: 1, text: x
+token: 400, yylval: 3, text: =
+token: 10, yylval: 1, text: x
